@@ -15,3 +15,10 @@ print("hola {nombre} es el {dia} de Agosto".format(dia=dia, nombre=nombre))
 
 print("Forma 4")
 print(f"hola {nombre} es el {dia} de Agosto")
+
+print("Ejemplo 2 - Forma 1")
+print("hola hola hola hola hola hola hola")
+
+print("Ejemplo 2 - Forma 1")
+print("hola "*100)
+
