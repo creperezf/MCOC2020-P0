@@ -2,9 +2,9 @@
 
 # Mi computador
 
-* Procesador Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
-+ Numero de nucleos: 4 
-+ Humero de hilos: 2
-* Memoria: 32 Gb   DDR4 (frecuencia de ram)
-* 3 Discos duros
+* Procesador Intel(R) Core(TM) i7-5550K CPU @ 2.40GHz
++ Numero de nucleos: 2 
++ Numero de hilos: 2
+* Memoria: 8 Gb   DDR3 (frecuencia de ram)
+* 1 Disco duro
 
