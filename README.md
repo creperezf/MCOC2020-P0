@@ -46,8 +46,12 @@
   * Comentarios:
  
     * ¿Como difiere del gráfico del profesor/ayudante?
+      * difiere bastante en los tiempos empleados en la ejecución de mi programa. tardando considerablemente más el mio.
     * ¿A qué se pueden deber las diferencias?
+      * Esta diferencia se puede deber a la diferencia de procesador y a la cantidad de memoria ram que tienen los computadores.
     * El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
     * ¿Qué versión de python está usando?
+      * python 3.8
     * ¿Qué versión de numpy está usando?
+      * versión 1.18.5
     * Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
