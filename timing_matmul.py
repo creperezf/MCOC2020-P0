@@ -24,6 +24,8 @@ for N in Ns:
     size=3*(N**2)*8
     lista.append(dt)
     listamem.append(size)
+    x=["","","","10","20","50","100","200","500","1000","2000","5000","10000"]
+    x1=["","","","","","","","","","","","",""]
     y=[0.1e-3,1e-3,1e-2,0.1,1.,10,60,60*10]
     ejey=["0.1 ms","1 ms", "10 ms", "0.1 s", "1 s", "10 s", "1 min","10min"]
     Memy=[10**3,10**4,10**5,10**6,10**7,10**8,10**9,10**10]
@@ -32,7 +34,7 @@ for N in Ns:
 pyplot.figure()
 pyplot.subplot(2,1,1)
 pyplot.loglog(Ns,lista,"-o")
-pyplot.xticks(Ns,Ns)
+pyplot.xticks(Ns,x1)
 pyplot.yticks(y,ejey) 
 pyplot.xlabel("tamaño de la matriz")
 pyplot.ylabel("tiempo transcurrido")
@@ -40,7 +42,7 @@ pyplot.title("Rendimiento A@B")
 pyplot.grid()
 pyplot.subplot(2,1,2)
 pyplot.loglog(Ns,listamem,"-o")
-pyplot.xticks(Ns,Ns, rotation=45)
+pyplot.xticks(Ns,x, rotation=45)
 pyplot.yticks(Memy,Memy2)
 pyplot.xlabel("tamaño de la matriz")
 pyplot.ylabel("Uso de memoria")
