@@ -43,11 +43,11 @@
  
  ![image](https://user-images.githubusercontent.com/69158551/89689590-b59e3e80-d8d2-11ea-89e7-a76008cb0457.png)
 
- *comentarios:
+  *Comentarios:
  
-  *¿Como difiere del gráfico del profesor/ayudante?
-  *¿A qué se pueden deber las diferencias?
-  *El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
-  *¿Qué versión de python está usando?
-  *¿Qué versión de numpy está usando?
-  *Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
+   *¿Como difiere del gráfico del profesor/ayudante?
+   *¿A qué se pueden deber las diferencias?
+   *El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
+   *¿Qué versión de python está usando?
+   *¿Qué versión de numpy está usando?
+   *Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
