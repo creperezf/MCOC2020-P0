@@ -38,3 +38,7 @@
 * Dirección IP (Interna, del router): 192.168.1.21
 * Dirección IP (Externa, del ISP): 190.217.205.101
 * Proveedor internet: Telefonica del Sur
+
+ # Desempeño MATMUL
+ 
+ 
