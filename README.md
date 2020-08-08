@@ -56,3 +56,4 @@
     * ¿Qué versión de numpy está usando?
       * versión 1.18.5
     * Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
+      * En la gráfica se puede ver que en un punto llega a mas del 100% de su capacidad por lo que debería usar 2 proceso.
