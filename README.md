@@ -50,6 +50,7 @@
     * ¿A qué se pueden deber las diferencias?
       * Esta diferencia se puede deber a la diferencia de procesador y a la cantidad de memoria ram que tienen los computadores.
     * El gráfico de uso de memoria es lineal con el tamaño de matriz, pero el de tiempo transcurrido no lo es ¿porqué puede ser?
+      * El gráfico con el tiempo utilizado para resolución de las matrices no es lineal debido a que cuando el proceso se estaba realizando el pc estaba al mismo tiempo realizondo otras acciones, haciendo que la memoria ram no este dedicada 100% en la solución de las matrices.
     * ¿Qué versión de python está usando?
       * python 3.8
     * ¿Qué versión de numpy está usando?
