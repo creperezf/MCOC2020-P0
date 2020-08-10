@@ -58,4 +58,9 @@
     * Durante la ejecución de su código ¿se utiliza más de un procesador? Muestre una imagen de su uso de procesador durante alguna corrida para confirmar. 
       * En la gráfica se puede ver que en un punto llega a mas del 100% de su capacidad por lo que debería usar 2 procesadores.
       ![WhatsApp Image 2020-08-07 at 20 25 58](https://user-images.githubusercontent.com/69158551/89698201-efc90980-d8ed-11ea-899e-514e7952712c.jpeg)
+      
+# Desempeño mimatmul
+
+![grafica2 mimatmul](https://user-images.githubusercontent.com/69158551/89828612-453c2b00-db27-11ea-9cfb-0dd6fc7377cf.png)
+
 
