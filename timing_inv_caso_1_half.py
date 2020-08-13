@@ -33,7 +33,7 @@ for N in Ns:
     dt = t2 - t1
     ds = t4 - t3
     dr = t6 - t5
-    size=3*(N**2)*8   
+    size=3*(N**2)*5   
     
     lista.append(dt)
     listamem.append(ds)
