@@ -63,5 +63,10 @@
 
 ![grafica2 mimatmul](https://user-images.githubusercontent.com/69158551/89828612-453c2b00-db27-11ea-9cfb-0dd6fc7377cf.png)
   * Como se puede ver en la gráfica solo se realizó hasta la matriz de 1000x1000, dado que se demoraba bastante en obtener los resultados. Esto se debe a que mi función trabaja en un nivel mucho mas elevado que el matmul, el cual trabaja a un nivel inferior, optimizando el proceso, permitiendo tiempos bastante mas bajos.
+  
+# Desempeño inversa de matriz A:
+  * El rendimiento de la matriz inversa de A en half, no se pudo sacar al igual que la de longdouble, dando como error:  
+    * TypeError: array type float16 is unsupported in linalg  
+    * TypeError: array type float64 is unsupported in linalg 
 
 
