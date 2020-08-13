@@ -69,4 +69,7 @@
     * TypeError: array type float16 is unsupported in linalg  
     * TypeError: array type float64 is unsupported in linalg 
 
+![image](https://user-images.githubusercontent.com/69158551/90090683-a95f1a80-dcf2-11ea-9e4d-09310c35f9b6.png)
+
+![image](https://user-images.githubusercontent.com/69158551/90090693-aebc6500-dcf2-11ea-9151-513f6bb2402e.png)
 
