@@ -74,6 +74,9 @@
 
 ![image](https://user-images.githubusercontent.com/69158551/90090693-aebc6500-dcf2-11ea-9151-513f6bb2402e.png)
 
+# Entrega 5
+
+
 # Entrega 6 (solvers de scipy):
 ![imagen entrega 6](https://user-images.githubusercontent.com/69158551/90440977-20efc980-e0a6-11ea-93e7-5e32ab5dc7cb.png)
   * En la gráfica se puede ver claramente que los mejores desempeños los tienen los solvers de scipy siendo el con el mejor desempeño el solver con la función pos overwrite_a=True.
