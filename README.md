@@ -76,6 +76,8 @@
 
 # Entrega 5
 
+![grafica_Ax=B](https://user-images.githubusercontent.com/69158551/90441997-e4bd6880-e0a7-11ea-9c13-28efb409c62e.png)
+
 
 # Entrega 6 (solvers de scipy):
 ![imagen entrega 6](https://user-images.githubusercontent.com/69158551/90440977-20efc980-e0a6-11ea-93e7-5e32ab5dc7cb.png)
