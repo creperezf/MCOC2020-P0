@@ -83,4 +83,5 @@
 ![imagen entrega 6](https://user-images.githubusercontent.com/69158551/90440977-20efc980-e0a6-11ea-93e7-5e32ab5dc7cb.png)
   * En la gráfica se puede ver claramente que los mejores desempeños los tienen los solvers de scipy siendo el con el mejor desempeño el solver con la función pos overwrite_a=True.
   y el con el peor desempeño es hacer la inversa para solucionar el problema.
+  Además el primer solver de scipy es el que tiene un mejor desempeño en un comienzo a matrices inferios a 100x100, como se ve en la curva naranja. Pero pasado el valor N=100 comienza a caer con respecto a los otros 4 solvers de scipy.
 
