@@ -87,4 +87,19 @@
 
 # Entrega 7
   * Gráficos:
+    * Matriz llena SOLVE: ![grafico_llena_SOLVE](https://user-images.githubusercontent.com/69158551/90947122-63e0d280-e401-11ea-845a-fb5c81a918ef.png)
+    * Matriz llena MATMUL: ![grafico_llena_MATMUL](https://user-images.githubusercontent.com/69158551/90947125-68a58680-e401-11ea-8b4c-b9452b6298d8.png)
+    * Matriz llena INVERSA: ![grafica_llena_INVERSA](https://user-images.githubusercontent.com/69158551/90947128-6c390d80-e401-11ea-8b94-af8ccf7b3f8a.png)
+    * Matriz llena SOLVE: ![grafica_dispersa_SOLVE](https://user-images.githubusercontent.com/69158551/90947133-72c78500-e401-11ea-84d7-ed075794ecfd.png)
+    * Matriz llena MATMUL: ![grafica_dispersa MATMUL](https://user-images.githubusercontent.com/69158551/90947138-765b0c00-e401-11ea-8696-80c4ca41d22f.png)
+    * Matriz llena INVERSA: ![grafica_dispersa_INVERSA](https://user-images.githubusercontent.com/69158551/90947140-7955fc80-e401-11ea-94d1-2e744c1ff8f4.png)
+ 
+ * Matrices laplacianas: (https://github.com/creperezf/MCOC2020-P0/blob/master/entrega%207/matrices_laplace.py)
+ 
+    
+
+
+
+
+
   
