@@ -85,3 +85,6 @@
   y el con el peor desempeño es hacer la inversa para solucionar el problema. Esto se debe a que esta función es la orden mas directa de todas las demás, ya que usa un lennguaje de programación de bajo nivel para realizar la orden, realizandola de una forma mas directa.
   Además el primer solver de scipy es el que tiene un mejor desempeño en un comienzo a matrices inferios a 100x100, como se ve en la curva naranja. Pero pasado el valor N=100 comienza a caer con respecto a los otros 4 solvers de scipy.
 
+# Entrega 7
+  * Gráficos:
+  
