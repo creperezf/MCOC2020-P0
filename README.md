@@ -96,6 +96,16 @@
  
  * Matrices laplacianas: (https://github.com/creperezf/MCOC2020-P0/blob/master/entrega%207/matrices_laplace.py)
  
+ * Preguntas:
+ 
+   *1. La diferencia que hay entre las matrices llenas y dispersas es que en los tres casos que se utilizaron las dispersas el proceso se optimizó con respecto a la de las matrices llenas ya que el entrega mas información al computador haciendo que la realizacion del cálculp de matrices tenga tiempos sean inferiores.
+   
+   *2. El comportamiento asintótico en la mayoria de los casos fue para la recta O(N) que se ve en amarillo y tambien para la recta O(N$^2$) que se ve en verde, pero a medida que va creciendo el N, la recta se va alejando de la curva de los tiempos obtenidos.
+   
+   *3. A medida que aumenta el tamaño de la matriz los tiempos aumentan exponencialmente con ella, y todas los puntos de las iteraciones se van pareciendo mas.
+   
+   *4. Las corridas para matrices mas bajas son menos estables teniendo puntos completamente distintos, pero a medida que aumentan las matrices los puntos se van estabilizando quedando casi exactos en los tiempos.
+ 
     
 
 
