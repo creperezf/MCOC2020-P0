@@ -105,6 +105,12 @@
    *3. A medida que aumenta el tamaño de la matriz los tiempos aumentan exponencialmente con ella, y todas los puntos de las iteraciones se van pareciendo mas.
    
    *4. Las corridas para matrices mas bajas son menos estables teniendo puntos completamente distintos, pero a medida que aumentan las matrices los puntos se van estabilizando quedando casi exactos en los tiempos.
+   
+ 
+#Entrega Final
+  * comentarios:
+    En esta entrega los cambios realizados fueron bastante grandes, ya que no logré alcanzar a realizar la entrega 6 cuando tuve que haberlo reaalizado.
+    Los resultados obtenidos son bastante cercanos a los reales pero aun así se alejan en varios km de lo que se quiere obtener. Para mejorarlo habría que emplear la mayor cantidad de correcciones posibles. J4,J5,J6,J7...J10 y hasta donde se pueda llegar.
  
     
 
